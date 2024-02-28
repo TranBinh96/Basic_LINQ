@@ -1,0 +1,10 @@
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocDelegate\bin\Debug\HocDelegate.exe.config
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocDelegate\bin\Debug\HocDelegate.exe
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocDelegate\bin\Debug\HocDelegate.pdb
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocDelegate\obj\Debug\HocDelegate.csproj.AssemblyReference.cache
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocDelegate\obj\Debug\HocDelegate.Form1.resources
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocDelegate\obj\Debug\HocDelegate.Properties.Resources.resources
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocDelegate\obj\Debug\HocDelegate.csproj.GenerateResource.cache
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocDelegate\obj\Debug\HocDelegate.csproj.CoreCompileInputs.cache
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocDelegate\obj\Debug\HocDelegate.exe
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocDelegate\obj\Debug\HocDelegate.pdb

@@ -1,0 +1,10 @@
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HelloWord\bin\Release\HelloWord.exe.config
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HelloWord\bin\Release\HelloWord.exe
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HelloWord\bin\Release\HelloWord.pdb
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HelloWord\obj\Release\HelloWord.csproj.AssemblyReference.cache
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HelloWord\obj\Release\HelloWord.Form1.resources
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HelloWord\obj\Release\HelloWord.Properties.Resources.resources
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HelloWord\obj\Release\HelloWord.csproj.GenerateResource.cache
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HelloWord\obj\Release\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HelloWord\obj\Release\HelloWord.exe
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HelloWord\obj\Release\HelloWord.pdb
