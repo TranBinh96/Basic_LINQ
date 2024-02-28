@@ -168,13 +168,15 @@
             // 
             // listViewCustomer
             // 
+            this.listViewCustomer.Activation = System.Windows.Forms.ItemActivation.OneClick;
             this.listViewCustomer.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.columnID,
             this.columnName});
             this.listViewCustomer.FullRowSelect = true;
             this.listViewCustomer.GridLines = true;
             this.listViewCustomer.HideSelection = false;
-            this.listViewCustomer.Location = new System.Drawing.Point(366, 198);
+            this.listViewCustomer.HoverSelection = true;
+            this.listViewCustomer.Location = new System.Drawing.Point(373, 198);
             this.listViewCustomer.Name = "listViewCustomer";
             this.listViewCustomer.Size = new System.Drawing.Size(255, 222);
             this.listViewCustomer.TabIndex = 9;
