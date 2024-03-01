@@ -25,6 +25,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocExists", "HocExists\HocE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocFindAll", "HocFindAll\HocFindAll.csproj", "{C7379BBF-6355-47BC-8C52-0194B0D2B000}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocFindIndex", "HocFindIndex\HocFindIndex.csproj", "{685CD5A7-D6D7-4CA3-87A0-753F99A6F8D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocSelect", "HocSelect\HocSelect.csproj", "{9BE6549E-FEC9-403C-9D0B-9ABD44948BBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocTake", "HocTake\HocTake.csproj", "{A64A7145-F230-4A56-9F04-1E68A4D29FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocToDictionary", "HocToDictionary\HocToDictionary.csproj", "{1B74D93E-D772-4C5C-BCC3-40C9037BB6FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocToList", "HocToList\HocToList.csproj", "{D46AD529-0FD1-4B24-BD6F-C19531FAF487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLSP", "QLSP\QLSP.csproj", "{30305465-0FFD-48CD-AA5B-5A78C7F431B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTapTongHopQuanLySanPham", "BaiTapTongHopQuanLySanPham\BaiTapTongHopQuanLySanPham.csproj", "{00B99145-3F70-435C-8C79-61382E82488F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +89,34 @@ Global
 		{C7379BBF-6355-47BC-8C52-0194B0D2B000}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7379BBF-6355-47BC-8C52-0194B0D2B000}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7379BBF-6355-47BC-8C52-0194B0D2B000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{685CD5A7-D6D7-4CA3-87A0-753F99A6F8D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685CD5A7-D6D7-4CA3-87A0-753F99A6F8D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685CD5A7-D6D7-4CA3-87A0-753F99A6F8D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685CD5A7-D6D7-4CA3-87A0-753F99A6F8D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BE6549E-FEC9-403C-9D0B-9ABD44948BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE6549E-FEC9-403C-9D0B-9ABD44948BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE6549E-FEC9-403C-9D0B-9ABD44948BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE6549E-FEC9-403C-9D0B-9ABD44948BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64A7145-F230-4A56-9F04-1E68A4D29FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64A7145-F230-4A56-9F04-1E68A4D29FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64A7145-F230-4A56-9F04-1E68A4D29FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64A7145-F230-4A56-9F04-1E68A4D29FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B74D93E-D772-4C5C-BCC3-40C9037BB6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B74D93E-D772-4C5C-BCC3-40C9037BB6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B74D93E-D772-4C5C-BCC3-40C9037BB6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B74D93E-D772-4C5C-BCC3-40C9037BB6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46AD529-0FD1-4B24-BD6F-C19531FAF487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46AD529-0FD1-4B24-BD6F-C19531FAF487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46AD529-0FD1-4B24-BD6F-C19531FAF487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46AD529-0FD1-4B24-BD6F-C19531FAF487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30305465-0FFD-48CD-AA5B-5A78C7F431B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30305465-0FFD-48CD-AA5B-5A78C7F431B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30305465-0FFD-48CD-AA5B-5A78C7F431B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30305465-0FFD-48CD-AA5B-5A78C7F431B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B99145-3F70-435C-8C79-61382E82488F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B99145-3F70-435C-8C79-61382E82488F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B99145-3F70-435C-8C79-61382E82488F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B99145-3F70-435C-8C79-61382E82488F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
