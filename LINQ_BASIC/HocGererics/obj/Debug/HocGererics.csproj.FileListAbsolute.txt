@@ -2,9 +2,9 @@ C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocGererics\bin\De
 C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocGererics\bin\Debug\HocGererics.exe
 C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocGererics\bin\Debug\HocGererics.pdb
 C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocGererics\obj\Debug\HocGererics.csproj.AssemblyReference.cache
+C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocGererics\obj\Debug\HocGererics.Form1.resources
 C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocGererics\obj\Debug\HocGererics.Properties.Resources.resources
 C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocGererics\obj\Debug\HocGererics.csproj.GenerateResource.cache
 C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocGererics\obj\Debug\HocGererics.csproj.CoreCompileInputs.cache
 C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocGererics\obj\Debug\HocGererics.exe
 C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocGererics\obj\Debug\HocGererics.pdb
-C:\Users\BINHTT\Desktop\Manager_Project\Basic_LINQ\LINQ_BASIC\HocGererics\obj\Debug\HocGererics.Form1.resources
